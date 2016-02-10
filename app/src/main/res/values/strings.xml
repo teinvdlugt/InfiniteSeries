@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Leibniz Series</string>
+    <string name="update_delay_format">Update delay: %d</string>
+    <string name="click_start">Click start</string>
+    <string name="n_textView_format">…+1/%d…</string>
+    <string name="learn_more">Learn more</string>
+</resources>
